@@ -1,8 +1,6 @@
 # test
 # hello world
-{"\n"}
- write the exp{x} function
- \f=function
+
  add_row
  # Good
 add_row()
